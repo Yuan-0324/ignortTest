@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMC-MSAndLSO.Server", "CMC-MSAndLSO.Server\CMC-MSAndLSO.Server.csproj", "{D7B06807-7426-4CD2-BC04-0B139CC87D5F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "cmc-msandlso.client", "cmc-msandlso.client\cmc-msandlso.client.esproj", "{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B06807-7426-4CD2-BC04-0B139CC87D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B06807-7426-4CD2-BC04-0B139CC87D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B06807-7426-4CD2-BC04-0B139CC87D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B06807-7426-4CD2-BC04-0B139CC87D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6BAD40A-00CC-4A24-A0D9-D1B00638D798}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A2B53D-2DF0-459C-BA7B-659BAB64B12B}
+	EndGlobalSection
+EndGlobal
